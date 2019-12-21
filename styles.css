@@ -1,0 +1,21 @@
+body{
+background-color : #eee8aa;
+}
+h1{
+  color:blue;
+}
+h3{
+  color:blue;
+}
+hr{
+border-color: white;
+border-style:none;
+border-top-style:dotted;
+border-width:7px;
+height :0px;
+width:200px;
+}
+img{
+  height : 200px;
+  width : 200px;
+}
